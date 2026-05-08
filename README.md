@@ -620,7 +620,7 @@ Possible next steps:
 
 The final model is a strong portfolio-quality benchmark for predicting Medium article engagement on the `log1p(claps)` scale. It is not claimed to be production-ready, but it shows a complete and careful machine learning workflow with explicit attention to chronological validation, leakage prevention, model comparison, calibration, interpretation, and limitations.
 
-- Medium article: [soon]
+- Medium article: https://medium.com/@nahid.nm57/predicting-medium-article-engagement-using-leakage-aware-nlp-and-gradient-boosting-5596c685ff4d
 ----
 
 ⭐ Hope you find this project as instructive and insightful as I did while building it!
