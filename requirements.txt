@@ -1,0 +1,15 @@
+datasets==4.8.5
+# importlib  # not installed or standard library
+lightgbm==4.6.0
+# math  # not installed or standard library
+matplotlib==3.10.5
+numpy==2.2.6
+# os  # not installed or standard library
+pandas==2.3.3
+# pathlib  # not installed or standard library
+# re  # not installed or standard library
+scipy==1.15.2
+scikit-learn==1.7.2
+# subprocess  # not installed or standard library
+# sys  # not installed or standard library
+# warnings  # not installed or standard library
